@@ -1,6 +1,6 @@
 # note:
 ~~项目已跟进到rasa新版本，一些新特性后面尝试后补充~~。rasa 版本更新太快，本项目滞后最新版本较大，仅供参考，建议根据需要阅读最新rasa文档。
-
+  参考说明文章 https://www.leiphone.com/news/201801/vACDb4p98FqcmJVA.html
 # rasa_chatbot
 A Chinese task oriented chatbot in  IVR(Interactive Voice Response) domain， Implement by rasa nlu and rasa core. This is a demo with toy dataset.
 
